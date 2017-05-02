@@ -1,0 +1,47 @@
+{
+    "name": "launcher",
+    "main": "index.html",
+    "additional_trust_anchors": [],
+    "window": {
+        "as_desktop": false,
+        "frame": true,
+        "always_on_top": false,
+        "resizable": false,
+        "show_in_taskbar": true,
+        "fullscreen": false,
+        "visible_on_all_workspaces": false,
+        "show": true,
+        "kiosk_emulation": false,
+        "height": 480,
+        "width": 640,
+        "kiosk": false,
+        "title": "launcher",
+        "id": "launcher",
+        "transparent": false,
+        "visible": true
+    },
+    "nodejs": true,
+    "webexe_settings": {
+        "windows-x64": false,
+        "windows-x32": false,
+        "uncompressed_folder": false,
+        "nw_version": "0.22.0",
+        "nw_compression_level": 0,
+        "custom_script": "",
+        "linux-x32": false,
+        "sdk_build": false,
+        "force_download": false,
+        "download_dir": "C:/Users/noah.enger/AppData/Local/Web2Executable/Web2Executable/files/downloads",
+        "export_dir": "output",
+        "mac-x64": false,
+        "linux-x64": false,
+        "output_pattern": ""
+    },
+    "webkit": {
+        "plugin": true,
+        "double_tap_to_zoom_enabled": false
+    },
+    "version": "0.1.0",
+    "node-remote": [],
+    "app_name": "launcher"
+}
