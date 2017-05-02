@@ -1,0 +1,15 @@
+/* Chrome, Safari, Opera */
+	@-webkit-keyframes mymove {
+    0%   {background-color: green;}
+    25%  {background-color: 009900;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+	}
+	
+	/* Standard syntax */
+	@keyframes mymove {
+    0%   {background-color: green;}
+    25%  {background-color: 009900;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+	}
