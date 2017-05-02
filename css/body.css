@@ -1,0 +1,10 @@
+body{
+	cursor:url(images/cursers/burger.cur),auto;
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	background-image:url("images/texture/clifftop.png");
+	background-repeat: repeat-x;
+	 background-image:url("images/texture/cliffbottom.png");
+	-ms-user-select: text;
+	-user-select: text;
+}
